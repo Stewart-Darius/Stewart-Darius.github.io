@@ -2,9 +2,9 @@
 
 Welcome to my Computer Science Capstone ePortfolio for CS-499.
 
-## Project Artifact: Secure Software System (CS-305)
+## Project Artifact: Software Security (CS-305)
 This Java-based application focuses on secure software engineering, including input validation, encryption, and threat mitigation techniques.  
-🔗 [View Artifact Repository] (https://github.com/Stewart-Darius/CS_305_Software_Security)
+https://github.com/Stewart-Darius/CS_305_Software_Security
 
 ### Enhancement Plan
 - Refactor to follow MVC architecture.
