@@ -26,6 +26,11 @@ Looking back, I can confidently say that this program prepared me to contribute 
 This Java-based application focuses on secure software engineering, including input validation, encryption, and threat mitigation techniques.  
 https://github.com/Stewart-Darius/CS_305_Software_Security
 
+## Code Review
+
+Watch the full walkthrough of the original artifact, code analysis, and enhancement plan:  
+[View Code Review Video](https://drive.google.com/file/d/17QMbtt8nWNzUjlswNAgTn9qmKTnxbHrW/view?usp=sharing)
+
 ### Enhancement Plan
 - Refactor to follow MVC architecture.
 - Add role-based access control (RBAC).
