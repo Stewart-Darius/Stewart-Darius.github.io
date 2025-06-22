@@ -32,10 +32,16 @@ Watch the full walkthrough of the original artifact, code analysis, and enhancem
 [View Code Review Video](https://drive.google.com/file/d/17QMbtt8nWNzUjlswNAgTn9qmKTnxbHrW/view?usp=sharing)
 
 ### Enhancement Plan
-- Refactor to follow MVC architecture.
-- Add role-based access control (RBAC).
-- Integrate logging with sanitized output.
-- Strengthen input validation across modules.
+- Refactored the application to follow modular design patterns (MVC-style separation).
+- Integrated structured logging to improve traceability and debugging.
+- Strengthened input validation and error handling across modules.
+- Added SQLite database persistence using the DAO pattern.
+- Implemented HTTPS with a self-signed certificate to secure data transmission.
+
+## Enhancement Narratives
+- [Software Design and Engineering](narratives/enhancement1.md)
+- [Algorithms and Data Structures](narratives/enhancement2.md)
+- [Databases](narratives/enhancement3.md)
 
 ## About Me
 I'm a Computer Science student and Navy Veteran passionate about building secure, reliable software products. 
